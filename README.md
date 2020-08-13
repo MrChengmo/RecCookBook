@@ -35,7 +35,7 @@
 
 | 来源  | 时间  |                  论文标题                   | 一作/机构 | 代码实现 | 简评  |
 | :---: | :---: | :-----------------------------------------: | :-------: | :------: | :---: |
-|  XXX  | 2020  | [xxx](https://arxiv.org/pdf/1801.02294.pdf) |  alibaba  |    /     |   /   |
+| IEEE International Conference on Data Mining   | 2010  | [Factorization machines](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf) | Steffen Rendle   |  https://github.com/A1fcc/FM-FFM/tree/a1708574582c3c9437acffcb6b994f23e908c7ac   |   (blog)[https://blog.csdn.net/weixin_37688445/article/details/106889832]   |
 
 #### 强化学习
 
