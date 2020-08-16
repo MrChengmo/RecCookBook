@@ -50,7 +50,7 @@
 
 | 来源  | 时间  |                  论文标题                   | 一作/机构 | 代码实现 | 简评  |
 | :---: | :---: | :-----------------------------------------: | :-------: | :------: | :---: |
-|  XXX  | 2020  | [xxx](https://arxiv.org/pdf/1801.02294.pdf) |  alibaba  |    /     |   /   |
+| International World Wide Web Conferences Steering Committee   | 2015  | [A Multi-View Deep Learning Approach for Cross Domain User Modeling in Recommendation Systems](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/frp1159-songA.pdf) | Ali Elkahky   |    /     |   /   |
 
 #### 图神经网络
 
